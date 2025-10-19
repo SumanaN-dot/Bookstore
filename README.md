@@ -1,6 +1,7 @@
 # SoftwareEngineering
 Repository for Software Engineering group project — deliverables, UML diagrams, use cases, and user stories
-
+Frontend/Backend: Sumana Naganathanahalli, Tamara Skinner, Benjamin Gaisford, and Abigail Irvin
+Database: Nima Darbandi
 
 
 **Branching Strategy**
@@ -23,7 +24,7 @@ docs/useCase-createAccount-nima
 
 **Examples:**
 
-If nima is working on use case diagrams for user registration:
+If we are working on use case diagrams for user registration:
 ```
 git checkout -b docs/use-case-registration-nima
 ```
@@ -45,3 +46,4 @@ This helps us avoid merge conflicts!
 | Commit changes        | `git commit -m "message"`                    |
 | Push branch to GitHub | `git push origin branch-name`                |
 | Pull latest from main | `git checkout main` → `git pull origin main` |
+
